@@ -1,0 +1,8 @@
+there are 3 staging areas while working within git
+the first is the working directory
+the second is the staging area, where the file is placed after running the git add command
+the last area is the repo section, where the file is placed after running the git commit command
+the master and the head usually always point to the same circle that was last modified
+you can add a branch by using the git branch command with a label for the new branch
+you can list what branches are available by running simply git branch, and this also shows which branch you are on
+you can switch between branches by running the branch checkout command followed by the title of the branch you wish to select
