@@ -6,3 +6,5 @@ the master and the head usually always point to the same circle that was last mo
 you can add a branch by using the git branch command with a label for the new branch
 you can list what branches are available by running simply git branch, and this also shows which branch you are on
 you can switch between branches by running the branch checkout command followed by the title of the branch you wish to select
+
+this is an edit into the git-notes repository
